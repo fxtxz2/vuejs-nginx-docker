@@ -28,3 +28,5 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # vuejs-nginx-docker
+# 参考
+* [Docker中Spring boot+VueJS+MongoDB的前后端分离哲学摔跤](https://my.oschina.net/fxtxz2/blog/3016664)
